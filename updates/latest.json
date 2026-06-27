@@ -1,1 +1,11 @@
-
+{
+  "version": "1.0.1",
+  "notes": "Correções no player e melhorias na importação de vídeos.",
+  "pub_date": "2026-06-27T10:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "COLE_AQUI_A_ASSINATURA_GERADA_PELO_TAURI",
+      "url": "https://raw.githubusercontent.com/gelbala/focoplay-updates/main/downloads/FocoPlay_1.0.1_x64-setup.exe"
+    }
+  }
+}
