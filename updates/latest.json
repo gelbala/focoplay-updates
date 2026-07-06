@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.1",
-    "notes":  "Correções no player, persistência de volume, melhorias na ativação, usabilidade e tratamento de erros.",
-    "pub_date":  "2026-07-04T00:00:00Z",
+    "version":  "0.1.2",
+    "notes":  "Corrige o início do teste gratuito em instalações Windows ao usar o transporte HTTP nativo do Tauri e melhora os diagnósticos de conectividade.",
+    "pub_date":  "2026-07-05T00:00:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTY2RmSVVzZG16dk16NkljOVVYVkY3enFKQXhhbllMMGU4MWk2WVNJRjFrdFhrbk5QazZHaEVRaE9FRkVJOXpLNWFBYlV1SkxxcW5qVkxBeDJqMWVhUm5BUy8yRGM0N0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjExNzU4CWZpbGU6Rm9jb1BsYXlfMC4xLjFfeDY0LXNldHVwLmV4ZQphRVljYnpwa0Nyd0RoQlJnWnJ6U01seVNkUm85Ry9MQTJPQk5GTlFvVm1PWFoxdGxNTTQyU2xiRGlUUXp1Nk0veWtHVHBiOWZndVAyQ0ZuK3ZnVWtDUT09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/gelbala/focoplay-updates/main/downloads/FocoPlay_0.1.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTY2RmSVVzZG16dk1MTzg2L1ZsZEN6d2RrOXlZc3J1cU5ZbmU4OWZNR3NNNWdyclNYdlIzbk1VUEN3TnpFS2FuQlU0QkRCK0tQZGkrN09HaGRkSFhGSW9zeGNaVy9SaUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjk5MzY3CWZpbGU6Rm9jb1BsYXlfMC4xLjJfeDY0LXNldHVwLmV4ZQpkeUx1OFBNTW1IT1JIM1NEcHJ4ZTYxQy8vNE5yM2l6VElvNkg0SGtwZWpiQUJWTVBXdXJmZC9JeUVyVU9NaFR6SkZhYSsxQktCQ3BnUVdIc0JLc0pEZz09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/gelbala/focoplay-updates/main/downloads/FocoPlay_0.1.2_x64-setup.exe"
                                          }
                   }
 }
