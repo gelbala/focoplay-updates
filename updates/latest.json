@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.8",
+    "version":  "0.1.9",
     "notes":  "Correcoes e melhorias no FocoPlay.",
-    "pub_date":  "2026-07-14T01:37:29Z",
+    "pub_date":  "2026-07-14T01:56:54Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTY2RmSVVzZG16dkFLTW9nY3FBVHRHL2pXSDBkWm1LV2l1V2hDN3plSXhCRU5XQXFDd0R2S0xxNFJrOGllYWJPUU9kVnI2YWswWUhNc1M2LzZOQzBkOUJha1QrMmRKZFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTkzMDQ3CWZpbGU6Rm9jb1BsYXlfMC4xLjhfeDY0LXNldHVwLmV4ZQpaOXJFQ3VOWnU4Zkp0MEQ1TzB1am1rSzRlWnBSVjFlMUYvY1pEYTFoNzBSS2FSU2Q4SzJkMkdaUGE0Uy85OWFRa09Pa1AreTQ4SjBLM1R1d0FiL21DUT09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/gelbala/focoplay-updates/main/downloads/FocoPlay_0.1.8_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTY2RmSVVzZG16dkVlaWdiU3Y1OGFsOTBIWVdyRVdpRGdWYU52bm11MngxR0tOQmw3U3dOcWZsZkYzOS9tTXhPMnRYWWNJaktiWTRhY0puc3oxQ1hVMGlhL0hkbXNPbndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTk0MjEyCWZpbGU6Rm9jb1BsYXlfMC4xLjlfeDY0LXNldHVwLmV4ZQo4eEtKajcvZlpvQjIvMUdzdkQ3d0l4OVE4V0dyODhvb0VwMVoxWExDWU10aWZLWi9YbXZkdEVPcjNPTzdJZ3QvRVpVU0xudlBIK0t1VDhFWi83L3pEUT09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/gelbala/focoplay-updates/main/downloads/FocoPlay_0.1.9_x64-setup.exe"
                                          }
                   }
 }
